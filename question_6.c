@@ -21,7 +21,7 @@ int main(){
                 f0 = j;
                 printf("%d ", f1);
             }
-            brak;
+            break;
     }
     
     /*
