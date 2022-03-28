@@ -4,8 +4,8 @@ int main(){
     int n, i, f0 = 0, f1 = 1, j;
     printf("Enter the n: ");
     scanf("%d", &n);
-    printf("Enter the n: ");
-    scanf("%d", &n);
+    //printf("Enter the n: ");
+    //scanf("%d", &n);
     switch(n){
         case 0:
             printf("0\n");
